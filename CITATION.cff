@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite the paper below."
+title: "Resilience Engineering of Memory-Poisoned LLM Agents: experimental pipeline"
+authors:
+  - family-names: Nankya
+    given-names: Mary
+    affiliation: University of Massachusetts Dartmouth
+  - family-names: Salboukh
+    given-names: F.
+  - family-names: Mints
+    given-names: D.
+  - family-names: Khalid
+    given-names: M.
+  - family-names: Dinh
+    given-names: Hang
+  - family-names: Fiondella
+    given-names: Lance
+version: "v4"
+date-released: "2026-10-04"
+repository-code: "https://github.com/<your-username>/resilience-memory-poisoning"

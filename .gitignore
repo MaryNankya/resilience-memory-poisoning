@@ -1,0 +1,18 @@
+# experiment outputs (large; archive separately, e.g. Zenodo)
+results*/
+figures*/
+supplement/
+supplement.zip
+*.log
+nohup.out
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.zip
